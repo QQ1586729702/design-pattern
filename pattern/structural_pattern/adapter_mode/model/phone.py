@@ -1,4 +1,4 @@
-from earphones import TypeCEarphones
+from .earphones import TypeCEarphones
 
 
 # 一加手机其耳机只支持type-c接口的耳机
